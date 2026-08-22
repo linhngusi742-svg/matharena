@@ -1,0 +1,9 @@
+{
+  "name": "matharena-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MathArena 9->10 real-time human multiplayer",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
